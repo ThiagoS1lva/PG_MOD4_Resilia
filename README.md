@@ -8,8 +8,8 @@ Dessa forma, com base no banco de dados fornecido previamente, utilizamos do myS
  ## <div align="center"> Tecnologias Utilizadas
   <div align="center"><br>
   <img align="center" alt="MySql" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
-  <img align="center" alt="Canva" height="60" width="80" src="https://s2.glbimg.com/bZewTw1DY8Sb0eMK7ol6czLgIyg=/0x0:695x502/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/F/6/QA2BISRAKuUgMCdKBAkA/2016-03-24-excel9.png" />
-  <img align="center" alt="Canva" height="60" width="100" src="https://s2.glbimg.com/bZewTw1DY8Sb0eMK7ol6czLgIyg=/0x0:695x502/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/F/6/QA2BISRAKuUgMCdKBAkA/2016-03-24-excel9.png" />
+  <img align="center" alt="Excel" height="60" width="80" src="[https://s2.glbimg.com/bZewTw1DY8Sb0eMK7ol6czLgIyg=/0x0:695x502/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/F/6/QA2BISRAKuUgMCdKBAkA/2016-03-24-excel9.png](https://play-lh.googleusercontent.com/37EzETO6gZyKmCg2kBIFX1e9gkubxZrVa5fHJ6yOaa7VvEShHjKv2RdtwnZt9Sk258s)" />
+  <img align="center" alt="PowerPoint" height="60" width="100" src="[https://s2.glbimg.com/bZewTw1DY8Sb0eMK7ol6czLgIyg=/0x0:695x502/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/F/6/QA2BISRAKuUgMCdKBAkA/2016-03-24-excel9.png](https://play-lh.googleusercontent.com/6pTX4OILXTxazqad66oiVfG4x2KpYn4kIPgdzOe173tT0oHr2ThwpBhMyzzzxWq_r6M)" />
   
 
 ## <div align="center"> 📝 Etapas
