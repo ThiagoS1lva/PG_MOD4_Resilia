@@ -32,16 +32,22 @@ Dessa forma, com base no banco de dados fornecido previamente, utilizamos do myS
 
 ## 🔖 RESULTADOS
 
-Obtivemos as seguintes tabelas:
-
-Qual é a equipe mais antiga?
-
-
+### Dashboard:
 
 
 ### FILTRAMOS AS SEGUINTES TABELAS 
 
+- Qual é a equipe mais antiga?</br>
+![WhatsApp Image 2023-03-28 at 14 40 22](https://user-images.githubusercontent.com/113373282/228417477-b27b8a65-dd7c-483f-912c-7329bdabea5f.jpeg)
 
+- Quem são os 10 maiores pontuadores?</br>
+![WhatsApp Image 2023-03-28 at 14 43 51](https://user-images.githubusercontent.com/113373282/228417476-0313ee13-8b7c-416d-a4e4-1462e0bc26c1.jpeg)
+
+- Quem são os  3 maiores arremessadores de 3 pontos?</br>
+![WhatsApp Image 2023-03-28 at 14 47 25](https://user-images.githubusercontent.com/113373282/228417481-68c49e84-b1df-4d47-addd-0b7547356126.jpeg)
+
+- Qual é o maior Estádio?</br>
+![WhatsApp Image 2023-03-28 at 14 38 43](https://user-images.githubusercontent.com/113373282/228417479-f329b0e4-b1fb-44f4-b8a9-2cfd8be42f9e.jpeg)
 
 
 ## 🤝 DESENVOLVEDORES
