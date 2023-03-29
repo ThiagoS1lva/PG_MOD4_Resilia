@@ -8,10 +8,11 @@ Dessa forma, com base no banco de dados fornecido previamente, utilizamos do myS
  ## <div align="center"> Tecnologias Utilizadas
   <div align="center"><br>
   <img align="center" alt="MySql" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
-  <img align="center" alt="Excel" height="60" width="80" src="https://user-images.githubusercontent.com/113373282/228416750-a412bdd4-022e-40d7-a24a-9d000065a43c.png" />
+  <img align="center" alt="Excel" height="60" width="70" src="https://user-images.githubusercontent.com/113373282/228417128-efcd6d9b-82db-4680-a6c4-bc6f0f9c65b7.png" />
   <img align="center" alt="PowerPoint" height="60" width="70" src="https://user-images.githubusercontent.com/113373282/228416740-85c35136-237f-4703-b7f1-00689482220e.png" />
-  
-   
+ 
+
+
 ## <div align="center"> 📝 Etapas
 
     Busca dos dados;
@@ -31,7 +32,11 @@ Dessa forma, com base no banco de dados fornecido previamente, utilizamos do myS
 
 ## 🔖 RESULTADOS
 
-Obtivemos o seguinte Dashboard 
+Obtivemos as seguintes tabelas:
+
+Qual é a equipe mais antiga?
+
+
 
 
 ### FILTRAMOS AS SEGUINTES TABELAS 
