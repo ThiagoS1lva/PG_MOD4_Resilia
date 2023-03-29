@@ -33,6 +33,11 @@ Dessa forma, com base no banco de dados fornecido previamente, utilizamos do myS
 ## 🔖 RESULTADOS
 
 ### Dashboard:
+![Dashboard](https://user-images.githubusercontent.com/113373282/228418856-368b6281-680e-48a9-8499-a81679c17fbf.png)
+busercontent.com/113373282/228417481-68c49e84-b1df-4d47-addd-0b7547356126.jpeg)
+
+## Diagrama:
+![Diagrama](https://user-images.githubusercontent.com/113373282/228418850-495194e5-052a-41a0-ab4c-db96a05a8fef.png)
 
 
 ### FILTRAMOS AS SEGUINTES TABELAS 
@@ -56,9 +61,4 @@ Dessa forma, com base no banco de dados fornecido previamente, utilizamos do myS
 - Pedro Nicácio 
 - Robson Azevedo
 - Thiago Oliveira
-
-
-
-
-
 
